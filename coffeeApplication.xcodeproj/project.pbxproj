@@ -7,6 +7,31 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		368BEB12238E8C130003E30D /* appbar.food.silverware.png in Resources */ = {isa = PBXBuildFile; fileRef = 368BEB11238E8C130003E30D /* appbar.food.silverware.png */; };
+		368BEB16238E936A0003E30D /* appbar.lines.horizontal.4.png in Resources */ = {isa = PBXBuildFile; fileRef = 368BEB15238E936A0003E30D /* appbar.lines.horizontal.4.png */; };
+		368BEB1A238E9C870003E30D /* appbar.cart.png in Resources */ = {isa = PBXBuildFile; fileRef = 368BEB19238E9C870003E30D /* appbar.cart.png */; };
+		368BEB1C238E9FEB0003E30D /* expresso.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 368BEB1B238E9FEB0003E30D /* expresso.jpg */; };
+		368BEB1E238EA0140003E30D /* macchiato.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 368BEB1D238EA0140003E30D /* macchiato.jpg */; };
+		368BEB20238EA0FD0003E30D /* americano.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 368BEB1F238EA0FC0003E30D /* americano.jpg */; };
+		368BEB22238EA1370003E30D /* latte.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 368BEB21238EA1370003E30D /* latte.jpg */; };
+		368BEB24238EA13D0003E30D /* cappuccino.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 368BEB23238EA13C0003E30D /* cappuccino.jpg */; };
+		368BEB26238EA1500003E30D /* mocha.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 368BEB25238EA14F0003E30D /* mocha.jpg */; };
+		368BEB28238EA1F10003E30D /* hot-chocolate.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 368BEB27238EA1F10003E30D /* hot-chocolate.jpg */; };
+		368BEB2A238EA2900003E30D /* Chai-Tea-Latte.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 368BEB29238EA2900003E30D /* Chai-Tea-Latte.jpg */; };
+		368BEB2C238EA3660003E30D /* Banana-Mocha-Frappuccino.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 368BEB2B238EA3660003E30D /* Banana-Mocha-Frappuccino.jpg */; };
+		368BEB2E238EB11D0003E30D /* appbar.undo.point.png in Resources */ = {isa = PBXBuildFile; fileRef = 368BEB2D238EB11D0003E30D /* appbar.undo.point.png */; };
+		368BEB30238EB18E0003E30D /* appbar.align.justify.png in Resources */ = {isa = PBXBuildFile; fileRef = 368BEB2F238EB18E0003E30D /* appbar.align.justify.png */; };
+		368BEB32238EB24A0003E30D /* checkout.swift in Sources */ = {isa = PBXBuildFile; fileRef = 368BEB31238EB24A0003E30D /* checkout.swift */; };
+		36B48C5D238EC4F200E4BCB9 /* croissant.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 36B48C5C238EC4F100E4BCB9 /* croissant.jpg */; };
+		36B48C5F238EC4F700E4BCB9 /* muffin.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 36B48C5E238EC4F600E4BCB9 /* muffin.jpg */; };
+		36B48C61238EC4FC00E4BCB9 /* sandwich.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 36B48C60238EC4FC00E4BCB9 /* sandwich.jpg */; };
+		36B48C63238EC53800E4BCB9 /* pancakes.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 36B48C62238EC53800E4BCB9 /* pancakes.jpg */; };
+		36B48C65238EC5F100E4BCB9 /* cookie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 36B48C64238EC5F100E4BCB9 /* cookie.jpg */; };
+		36B48C67238EC61D00E4BCB9 /* salad.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 36B48C66238EC61D00E4BCB9 /* salad.jpg */; };
+		36B48C6B238EC67A00E4BCB9 /* brownie.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 36B48C6A238EC67A00E4BCB9 /* brownie.jpg */; };
+		36B48C6D238ECFFD00E4BCB9 /* drinks.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B48C6C238ECFFD00E4BCB9 /* drinks.swift */; };
+		36B48C6F238ED02000E4BCB9 /* food.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B48C6E238ED02000E4BCB9 /* food.swift */; };
+		36B48C71238ED05B00E4BCB9 /* menu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36B48C70238ED05B00E4BCB9 /* menu.swift */; };
 		36D284E3238E7F8E009DC2C3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36D284E2238E7F8E009DC2C3 /* AppDelegate.swift */; };
 		36D284E5238E7F8E009DC2C3 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36D284E4238E7F8E009DC2C3 /* SceneDelegate.swift */; };
 		36D284E7238E7F8E009DC2C3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36D284E6238E7F8E009DC2C3 /* ViewController.swift */; };
@@ -15,6 +40,8 @@
 		36D284EF238E7F8F009DC2C3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 36D284ED238E7F8F009DC2C3 /* LaunchScreen.storyboard */; };
 		36D284FA238E7F8F009DC2C3 /* coffeeApplicationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36D284F9238E7F8F009DC2C3 /* coffeeApplicationTests.swift */; };
 		36D28505238E7F8F009DC2C3 /* coffeeApplicationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36D28504238E7F8F009DC2C3 /* coffeeApplicationUITests.swift */; };
+		36F765F3238E8A1900D2351A /* dark in Resources */ = {isa = PBXBuildFile; fileRef = 36F765F2238E8A1900D2351A /* dark */; };
+		36F765F5238E8A2F00D2351A /* appbar.cup.paper.png in Resources */ = {isa = PBXBuildFile; fileRef = 36F765F4238E8A2F00D2351A /* appbar.cup.paper.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -35,6 +62,31 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		368BEB11238E8C130003E30D /* appbar.food.silverware.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = appbar.food.silverware.png; path = "../../../../../../Downloads/WindowsIcons-master/WindowsPhone/dark/appbar.food.silverware.png"; sourceTree = "<group>"; };
+		368BEB15238E936A0003E30D /* appbar.lines.horizontal.4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = appbar.lines.horizontal.4.png; path = "../../../../../../Downloads/WindowsIcons-master/WindowsPhone/dark/appbar.lines.horizontal.4.png"; sourceTree = "<group>"; };
+		368BEB19238E9C870003E30D /* appbar.cart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = appbar.cart.png; path = "../../../../../../Downloads/WindowsIcons-master/WindowsPhone/dark/appbar.cart.png"; sourceTree = "<group>"; };
+		368BEB1B238E9FEB0003E30D /* expresso.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = expresso.jpg; sourceTree = SOURCE_ROOT; };
+		368BEB1D238EA0140003E30D /* macchiato.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = macchiato.jpg; sourceTree = SOURCE_ROOT; };
+		368BEB1F238EA0FC0003E30D /* americano.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = americano.jpg; sourceTree = SOURCE_ROOT; };
+		368BEB21238EA1370003E30D /* latte.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = latte.jpg; sourceTree = SOURCE_ROOT; };
+		368BEB23238EA13C0003E30D /* cappuccino.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cappuccino.jpg; sourceTree = SOURCE_ROOT; };
+		368BEB25238EA14F0003E30D /* mocha.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mocha.jpg; sourceTree = SOURCE_ROOT; };
+		368BEB27238EA1F10003E30D /* hot-chocolate.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "hot-chocolate.jpg"; sourceTree = SOURCE_ROOT; };
+		368BEB29238EA2900003E30D /* Chai-Tea-Latte.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Chai-Tea-Latte.jpg"; sourceTree = SOURCE_ROOT; };
+		368BEB2B238EA3660003E30D /* Banana-Mocha-Frappuccino.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Banana-Mocha-Frappuccino.jpg"; sourceTree = SOURCE_ROOT; };
+		368BEB2D238EB11D0003E30D /* appbar.undo.point.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = appbar.undo.point.png; path = "../../../../../../Downloads/WindowsIcons-master/WindowsPhone/dark/appbar.undo.point.png"; sourceTree = "<group>"; };
+		368BEB2F238EB18E0003E30D /* appbar.align.justify.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = appbar.align.justify.png; path = "../../../../../../Downloads/WindowsIcons-master/WindowsPhone/dark/appbar.align.justify.png"; sourceTree = "<group>"; };
+		368BEB31238EB24A0003E30D /* checkout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = checkout.swift; sourceTree = "<group>"; };
+		36B48C5C238EC4F100E4BCB9 /* croissant.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = croissant.jpg; sourceTree = SOURCE_ROOT; };
+		36B48C5E238EC4F600E4BCB9 /* muffin.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = muffin.jpg; sourceTree = SOURCE_ROOT; };
+		36B48C60238EC4FC00E4BCB9 /* sandwich.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sandwich.jpg; sourceTree = SOURCE_ROOT; };
+		36B48C62238EC53800E4BCB9 /* pancakes.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = pancakes.jpg; sourceTree = SOURCE_ROOT; };
+		36B48C64238EC5F100E4BCB9 /* cookie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cookie.jpg; sourceTree = SOURCE_ROOT; };
+		36B48C66238EC61D00E4BCB9 /* salad.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = salad.jpg; sourceTree = SOURCE_ROOT; };
+		36B48C6A238EC67A00E4BCB9 /* brownie.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = brownie.jpg; sourceTree = SOURCE_ROOT; };
+		36B48C6C238ECFFD00E4BCB9 /* drinks.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = drinks.swift; sourceTree = "<group>"; };
+		36B48C6E238ED02000E4BCB9 /* food.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = food.swift; sourceTree = "<group>"; };
+		36B48C70238ED05B00E4BCB9 /* menu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = menu.swift; sourceTree = "<group>"; };
 		36D284DF238E7F8E009DC2C3 /* coffeeApplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = coffeeApplication.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		36D284E2238E7F8E009DC2C3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		36D284E4238E7F8E009DC2C3 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +101,8 @@
 		36D28500238E7F8F009DC2C3 /* coffeeApplicationUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = coffeeApplicationUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		36D28504238E7F8F009DC2C3 /* coffeeApplicationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = coffeeApplicationUITests.swift; sourceTree = "<group>"; };
 		36D28506238E7F8F009DC2C3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		36F765F2238E8A1900D2351A /* dark */ = {isa = PBXFileReference; lastKnownFileType = folder; name = dark; path = "../../../../../../Downloads/WindowsIcons-master/WindowsPhone/dark"; sourceTree = "<group>"; };
+		36F765F4238E8A2F00D2351A /* appbar.cup.paper.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = appbar.cup.paper.png; path = "../../../../../../Downloads/WindowsIcons-master/WindowsPhone/dark/appbar.cup.paper.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,8 +156,35 @@
 				36D284E2238E7F8E009DC2C3 /* AppDelegate.swift */,
 				36D284E4238E7F8E009DC2C3 /* SceneDelegate.swift */,
 				36D284E6238E7F8E009DC2C3 /* ViewController.swift */,
+				36B48C6C238ECFFD00E4BCB9 /* drinks.swift */,
+				36B48C6E238ED02000E4BCB9 /* food.swift */,
+				368BEB31238EB24A0003E30D /* checkout.swift */,
+				36B48C70238ED05B00E4BCB9 /* menu.swift */,
 				36D284E8238E7F8E009DC2C3 /* Main.storyboard */,
 				36D284EB238E7F8F009DC2C3 /* Assets.xcassets */,
+				36F765F4238E8A2F00D2351A /* appbar.cup.paper.png */,
+				368BEB11238E8C130003E30D /* appbar.food.silverware.png */,
+				368BEB15238E936A0003E30D /* appbar.lines.horizontal.4.png */,
+				368BEB19238E9C870003E30D /* appbar.cart.png */,
+				368BEB1B238E9FEB0003E30D /* expresso.jpg */,
+				368BEB1D238EA0140003E30D /* macchiato.jpg */,
+				368BEB1F238EA0FC0003E30D /* americano.jpg */,
+				368BEB21238EA1370003E30D /* latte.jpg */,
+				368BEB23238EA13C0003E30D /* cappuccino.jpg */,
+				368BEB25238EA14F0003E30D /* mocha.jpg */,
+				368BEB27238EA1F10003E30D /* hot-chocolate.jpg */,
+				368BEB29238EA2900003E30D /* Chai-Tea-Latte.jpg */,
+				368BEB2B238EA3660003E30D /* Banana-Mocha-Frappuccino.jpg */,
+				368BEB2D238EB11D0003E30D /* appbar.undo.point.png */,
+				368BEB2F238EB18E0003E30D /* appbar.align.justify.png */,
+				36B48C5C238EC4F100E4BCB9 /* croissant.jpg */,
+				36B48C5E238EC4F600E4BCB9 /* muffin.jpg */,
+				36B48C60238EC4FC00E4BCB9 /* sandwich.jpg */,
+				36B48C62238EC53800E4BCB9 /* pancakes.jpg */,
+				36B48C64238EC5F100E4BCB9 /* cookie.jpg */,
+				36B48C66238EC61D00E4BCB9 /* salad.jpg */,
+				36B48C6A238EC67A00E4BCB9 /* brownie.jpg */,
+				36F765F2238E8A1900D2351A /* dark */,
 				36D284ED238E7F8F009DC2C3 /* LaunchScreen.storyboard */,
 				36D284F0238E7F8F009DC2C3 /* Info.plist */,
 			);
@@ -232,9 +313,32 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				368BEB26238EA1500003E30D /* mocha.jpg in Resources */,
+				368BEB1A238E9C870003E30D /* appbar.cart.png in Resources */,
 				36D284EF238E7F8F009DC2C3 /* LaunchScreen.storyboard in Resources */,
+				36B48C65238EC5F100E4BCB9 /* cookie.jpg in Resources */,
+				368BEB22238EA1370003E30D /* latte.jpg in Resources */,
+				36B48C67238EC61D00E4BCB9 /* salad.jpg in Resources */,
+				368BEB2E238EB11D0003E30D /* appbar.undo.point.png in Resources */,
+				368BEB2A238EA2900003E30D /* Chai-Tea-Latte.jpg in Resources */,
+				36B48C5D238EC4F200E4BCB9 /* croissant.jpg in Resources */,
 				36D284EC238E7F8F009DC2C3 /* Assets.xcassets in Resources */,
+				36B48C63238EC53800E4BCB9 /* pancakes.jpg in Resources */,
+				368BEB1C238E9FEB0003E30D /* expresso.jpg in Resources */,
+				36F765F3238E8A1900D2351A /* dark in Resources */,
+				368BEB24238EA13D0003E30D /* cappuccino.jpg in Resources */,
+				368BEB16238E936A0003E30D /* appbar.lines.horizontal.4.png in Resources */,
+				36B48C5F238EC4F700E4BCB9 /* muffin.jpg in Resources */,
+				368BEB20238EA0FD0003E30D /* americano.jpg in Resources */,
+				368BEB12238E8C130003E30D /* appbar.food.silverware.png in Resources */,
+				368BEB30238EB18E0003E30D /* appbar.align.justify.png in Resources */,
+				36B48C6B238EC67A00E4BCB9 /* brownie.jpg in Resources */,
+				36B48C61238EC4FC00E4BCB9 /* sandwich.jpg in Resources */,
+				368BEB1E238EA0140003E30D /* macchiato.jpg in Resources */,
+				368BEB2C238EA3660003E30D /* Banana-Mocha-Frappuccino.jpg in Resources */,
 				36D284EA238E7F8E009DC2C3 /* Main.storyboard in Resources */,
+				36F765F5238E8A2F00D2351A /* appbar.cup.paper.png in Resources */,
+				368BEB28238EA1F10003E30D /* hot-chocolate.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,8 +364,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				36D284E7238E7F8E009DC2C3 /* ViewController.swift in Sources */,
+				368BEB32238EB24A0003E30D /* checkout.swift in Sources */,
+				36B48C6D238ECFFD00E4BCB9 /* drinks.swift in Sources */,
 				36D284E3238E7F8E009DC2C3 /* AppDelegate.swift in Sources */,
 				36D284E5238E7F8E009DC2C3 /* SceneDelegate.swift in Sources */,
+				36B48C71238ED05B00E4BCB9 /* menu.swift in Sources */,
+				36B48C6F238ED02000E4BCB9 /* food.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
